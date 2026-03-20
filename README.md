@@ -2,7 +2,7 @@ This is an old backup of the web predictor for my first, 2006, publication "Usin
 
 
 >Mehmet M. Dalkilic, Wyatt T. Clark, James C. Costello, and Predrag Radivojac. Using compression to identify classes
-of inauthentic texts. * *{In Proceedings of the 2006 SIAM Conference on Data Mining}, pages 604–608. Society for Industrial and Applied Mathematics, April 2006.
+of inauthentic texts. *In Proceedings of the 2006 SIAM Conference on Data Mining*, pages 604–608. Society for Industrial and Applied Mathematics, April 2006.
 
 
 
