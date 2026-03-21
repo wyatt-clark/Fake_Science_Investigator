@@ -1,14 +1,13 @@
-This is an old backup of the web predictor for my first,publication "Using Compression to Identify Classes of Inauthentic Texts".
+This is an old backup of the web predictor for my first publication "Using Compression to Identify Classes of Inauthentic Texts".
 
 
 >Mehmet M. Dalkilic, Wyatt T. Clark, James C. Costello, and Predrag Radivojac. [Using compression to identify classes
 of inauthentic texts](https://www.khoury.northeastern.edu/home/radivojac/papers/dalkilic_sdm_2006.pdf). *In Proceedings of the 2006 SIAM Conference on Data Mining*, pages 604–608. Society for Industrial and Applied Mathematics, April 2006.
 
 
-
 In this paper we used sliding window compression profiles to differentiate between fake journal articles generated using SCIgen and real journal articles.
 
-While I do not have the traning data anymore, the parameters for the trained SVM are included in the repo. 
+While I no longer have the traning data, the parameters for the trained SVM are included in the repo. 
 
 Not sure any of the executables will work, but source code for the compression algorithms is provided. 
 
